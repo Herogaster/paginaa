@@ -69,7 +69,8 @@ console.log(p)
 
 localStorage.setItem("total",p);
 
-window.location.href = "Index11(final).html";
+window.location.href = "cuestionarioo.html";
 
 });
+
 
