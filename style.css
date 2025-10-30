@@ -1,3 +1,6 @@
+body{
+    margin:0;
+}
 .fiel{
     color: white;
     
@@ -28,4 +31,5 @@
 }
 video{
     border-radius: 20px;
+
 }
