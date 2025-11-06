@@ -3,8 +3,8 @@ body{
 }
 .fiel{
     color: white;
-    
-
+.titulo{
+   text-decoration: underline;
 }
 .h1{
     color: antiquewhite;
@@ -35,6 +35,7 @@ video{
     border-radius: 20px;
 
 }
+
 
 
 
