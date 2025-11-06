@@ -21,7 +21,13 @@ body{
 .aurusfinal{
      background-color: black;
 }
-
+#
+.aurus_inicio{
+    background-color: black;
+    background-image: url(https://w0.peakpx.com/wallpaper/348/238/HD-wallpaper-joystick-play-ps4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .aurus{
     background-color: black;
@@ -33,5 +39,6 @@ video{
     border-radius: 20px;
 
 }
+
 
 
