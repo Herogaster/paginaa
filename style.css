@@ -3,6 +3,7 @@ body{
 }
 .fiel{
     color: white;
+}
 .titulo{
    text-decoration: underline;
 }
@@ -23,6 +24,9 @@ body{
 
 .aurusfinal{
      background-color: black;
+      background-image: url(https://www.shutterstock.com/shutterstock/videos/1102153557/thumb/1.jpg?ip=x480);
+     background-repeat: no-repeat;
+     background-size: cove
 }
 
 .aurus{
@@ -35,6 +39,7 @@ video{
     border-radius: 20px;
 
 }
+
 
 
 
