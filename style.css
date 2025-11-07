@@ -40,6 +40,13 @@ video{
     border-radius: 20px;
 
 }
+#boton{
+    color: white;
+    padding: 5px;
+    font-size: larger;
+    background-color: rgba(96, 18, 185, 0.4);
+}
+
 
 
 
