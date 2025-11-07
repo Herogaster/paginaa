@@ -42,8 +42,9 @@ video{
 }
 #boton{
     color: white;
-    padding: 5px;
     font-size: larger;
+    border-radius: 10px;
+    padding:8px 20px 8px 20px;
     background-color: rgba(96, 18, 185, 0.4);
 }
 
